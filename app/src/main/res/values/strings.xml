@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Expensive Flashlight</string>
+    <string name="flashlight_title">FLASHLIGHT</string>
+    <string name="flashlight_subtitle">LIGHT UP YOUR WORLD</string>
+    <string name="status_on">ON</string>
+    <string name="status_off">OFF</string>
+    <string name="brightness">BRIGHTNESS</string>
+    <string name="mode_max">MAX</string>
+    <string name="mode_medium">MEDIUM</string>
+    <string name="mode_strobe">STROBE</string>
+    <string name="mode_sos">SOS</string>
+    <string name="tab_flashlight">FLASHLIGHT</string>
+    <string name="tab_premium">PREMIUM</string>
+    <string name="tab_settings">SETTINGS</string>
+    <string name="pay_and_light_up">Pay &amp; Light Up</string>
+    <string name="go_premium">Go Premium</string>
+    <string name="premium_title">GO PREMIUM</string>
+    <string name="premium_subtitle">Unlimited flashlight access</string>
+    <string name="premium_price">₹500/month</string>
+    <string name="subscribe_now">Subscribe Now</string>
+    <string name="select_duration">Select Duration</string>
+    <string name="premium_benefit_1">Unlimited flashlight usage</string>
+    <string name="premium_benefit_2">All modes unlocked (Strobe, SOS)</string>
+    <string name="premium_benefit_3">Brightness control</string>
+    <string name="premium_benefit_4">No per-use payments</string>
+    <string name="premium_benefit_5">Priority support</string>
+    <string name="settings_title">SETTINGS</string>
+    <string name="premium_status">Premium Status</string>
+    <string name="active">Active</string>
+    <string name="inactive">Inactive</string>
+    <string name="payment_history">Payment History</string>
+    <string name="app_version">App Version</string>
+    <string name="razorpay_key_placeholder">rzp_test_REPLACE_WITH_YOUR_KEY</string>
+</resources>
